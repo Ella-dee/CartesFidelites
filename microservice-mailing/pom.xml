@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <hibernate.validator>6.0.16.Final</hibernate.validator>
-        <hibernate.core>5.2.17.Final</hibernate.core>
+        <hibernate.core>5.3.20.Final</hibernate.core>
 		<start-class>com.mmailing.microservicemailing.MicroserviceMailingApplication</start-class>
 		<spring-cloud.version>2.1.2.RELEASE</spring-cloud.version>
 	</properties>
